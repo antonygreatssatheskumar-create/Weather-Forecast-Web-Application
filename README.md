@@ -3,7 +3,7 @@
 A dynamic and interactive weather forecasting web application that provides real-time weather updates, location-based forecasts, and detailed hourly insights with a user-friendly interface.
 
 ---
-
+![image alt](https://github.com/antonygreatssatheskumar-create/Weather-Forecast-Web-Application/blob/332f91ab8779ebcf99986eee31bbbcaa845a3938/image/Screenshot%202026-04-27%20010051.png)
 ## 🚀 Features
 
 - 🔍 **Smart Location Search**
