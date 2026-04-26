@@ -4,6 +4,7 @@ A dynamic and interactive weather forecasting web application that provides real
 
 ---
 ![image alt](https://github.com/antonygreatssatheskumar-create/Weather-Forecast-Web-Application/blob/332f91ab8779ebcf99986eee31bbbcaa845a3938/image/Screenshot%202026-04-27%20010051.png)
+![image alt](https://github.com/antonygreatssatheskumar-create/Weather-Forecast-Web-Application/blob/68ac2c1e41490d2ec712331458069cd51dd0553e/image/Screenshot%202026-04-27%20010101.png)
 ## 🚀 Features
 
 - 🔍 **Smart Location Search**
